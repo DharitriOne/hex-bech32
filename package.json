@@ -1,0 +1,22 @@
+{
+  "name": "hex-bech32",
+  "version": "1.0.0",
+  "description": "Bech32 convertor ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DharitriOne/hex-bech32.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DharitriOne/hex-bech32/issues"
+  },
+  "homepage": "https://github.com/DharitriOne/hex-bech32#readme",
+  "dependencies": {
+    "bech32-converting": "^1.0.9"
+  }
+}
